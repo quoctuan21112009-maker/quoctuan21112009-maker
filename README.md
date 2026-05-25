@@ -51,7 +51,7 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-quoctuan21112009--maker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quoctuan21112009-maker)
-[![Facebook](https://img.shields.io/badge/Facebook-Quốc%20Tuấn%20QT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/quoctuan)
+[![Facebook](https://img.shields.io/badge/Facebook-Quốc%20Tuấn%20QT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/quoctuan](https://www.facebook.com/quoctuzn)
 [![TikTok](https://img.shields.io/badge/TikTok-@no1dns-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@no1dns)
 [![Gmail](https://img.shields.io/badge/Gmail-quoctuan21112009-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quoctuan21112009@gmail.com)
 
@@ -66,7 +66,7 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ### 🤖 AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -79,8 +79,7 @@ me.say_hi()
 ### 🔐 Cybersecurity & Linux
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ### 🌐 Web & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
