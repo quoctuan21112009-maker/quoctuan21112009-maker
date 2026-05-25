@@ -51,7 +51,7 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-quoctuan21112009--maker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quoctuan21112009-maker)
-[![Facebook](https://img.shields.io/badge/Facebook-Quốc%20Tuấn%20QT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/quoctuan](https://www.facebook.com/quoctuzn)
+[![Facebook](https://img.shields.io/badge/Facebook-Quốc%20Tuấn%20QT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quoctuzn)
 [![TikTok](https://img.shields.io/badge/TikTok-@no1dns-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@no1dns)
 [![Gmail](https://img.shields.io/badge/Gmail-quoctuan21112009-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quoctuan21112009@gmail.com)
 
