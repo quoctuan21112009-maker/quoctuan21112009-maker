@@ -37,9 +37,9 @@ me = Tuan()
 me.say_hi()
 ```
 
-- 🔭 &nbsp;Đang làm việc với **Cybersecurity**
+- 🔭 &nbsp;Ước mơ  làm việc với **Cybersecurity**
 - 🌱 &nbsp;Học tại **THPT Lý Thường Kiệt**
-- 🤖 &nbsp;Đam mê **AI/ML & Computer Vision**
+- 🤖 &nbsp;Đam mê **Network Coputer**
 - 🔐 &nbsp;Nghiên cứu **Linux & Network Security**
 - 📝 &nbsp;Viết bài trên **[TikTok @no1dns](https://www.tiktok.com/@no1dns)**
 - 📫 &nbsp;Liên hệ: **quoctuan21112009@gmail.com**
