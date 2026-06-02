@@ -12,30 +12,11 @@
 
 ---
 
-## 👨‍💻 About Me
+
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
 
-```python
-class Tuan:
-    def __init__(self):
-        self.name       = "Quốc Tuấn (QT)"
-        self.username   = "quoctuan21112009-maker"
-        self.location   = "Việt Nam 🇻🇳"
-        self.school     = "THPT Lý Thường Kiệt"
-        self.focus      = "Cybersecurity 🔐"
-        self.languages  = ["Python", "HTML", "CSS", "JavaScript"]
-        self.interests  = ["AI/ML", "Network Security",
-                           "Linux", "Ethical Hacking"]
-        self.tiktok     = "@no1dns"
-        self.contact    = "quoctuan21112009@gmail.com"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect 🚀")
-
-me = Tuan()
-me.say_hi()
-```
 
 - 🔭 &nbsp;Ước mơ  làm việc với **Cybersecurity**
 - 🌱 &nbsp;Học tại **THPT Lý Thường Kiệt**
