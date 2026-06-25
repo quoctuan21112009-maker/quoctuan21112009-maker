@@ -18,9 +18,6 @@
 
 
 
-- 🔭 &nbsp;Ước mơ  làm việc với **Cybersecurity**
-- 🌱 &nbsp;Học tại **THPT Lý Thường Kiệt**
-- 🤖 &nbsp;Đam mê **Network Coputer**
 - 🔐 &nbsp;Nghiên cứu **Linux & Network Security**
 - 📝 &nbsp;Viết bài trên **[TikTok @no1dns](https://www.tiktok.com/@no1dns)**
 - 📫 &nbsp;Liên hệ: **quoctuan21112009@gmail.com**
