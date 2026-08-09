@@ -17,11 +17,10 @@
 
 ### About Me
 
-- 🎯 Mục tiêu dài hạn: trở thành **AI Engineer** chuyên sâu
-- 🧠 Tập trung vào **Machine Learning / Deep Learning**
-- 👁️ Thích khám phá **Computer Vision** và các bài toán thị giác máy tính
+- Mục tiêu dài hạn: trở thành **AI Engineer** chuyên sâu
+- Tập trung vào **Machine Learning / Deep Learning**
+- Thích khám phá **Computer Vision** và các bài toán thị giác máy tính
 - Ngôn ngữ chính: **Python**
-- Đang học sâu hơn về **PyTorch, TensorFlow, MLOps**
 - Email: **quoctuan21112009@gmail.com**
 - Điện thoại: **0974448467**
 
@@ -41,7 +40,7 @@
 <a href="https://github.com/quoctuan21112009-maker"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
 <a href="mailto:quoctuan21112009@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
-📱 **0974448467** &nbsp;|&nbsp; ✉️ **quoctuan21112009@gmail.com**
+ **0974448467** &nbsp;|&nbsp;  **quoctuan21112009@gmail.com**
 
 </div>
 
@@ -55,9 +54,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,sqlite,git,github,jupyter,anaconda&theme=dark&perline=7" />
-<br/>
-<img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=fastapi,sqlite,git,github,anaconda&theme=dark&perline=7" />
 
 </div>
 
@@ -68,7 +65,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quoctuan21112009-maker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctuan21112009-maker&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctuan21112009-maker&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 
 </div>
 
@@ -95,20 +92,18 @@
 </div>
 
 <div align="center">
-<sub>Commit Github of month .</sub>
+<sub>Commit GitHub of month.</sub>
 </div>
 
 ---
 
-## AI 
+## AI & Dev Vibes
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="220"/>
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
-
-
 
 
 </div>
