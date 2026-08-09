@@ -17,10 +17,11 @@
 
 ### About Me
 
-- Mục tiêu dài hạn: trở thành **AI Engineer** chuyên sâu
-- Tập trung vào **Machine Learning / Deep Learning**
-- Thích khám phá **Computer Vision** và các bài toán thị giác máy tính
+- 🎯 Mục tiêu dài hạn: trở thành **AI Engineer** chuyên sâu
+- 🧠 Tập trung vào **Machine Learning / Deep Learning**
+- 👁️ Thích khám phá **Computer Vision** và các bài toán thị giác máy tính
 - Ngôn ngữ chính: **Python**
+- Đang học sâu hơn về **PyTorch, TensorFlow, MLOps**
 - Email: **quoctuan21112009@gmail.com**
 - Điện thoại: **0974448467**
 
@@ -40,7 +41,7 @@
 <a href="https://github.com/quoctuan21112009-maker"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
 <a href="mailto:quoctuan21112009@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
- **0974448467** &nbsp;|&nbsp;  **quoctuan21112009@gmail.com**
+📱 **0974448467** &nbsp;|&nbsp; ✉️ **quoctuan21112009@gmail.com**
 
 </div>
 
@@ -54,7 +55,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,sqlite,git,github,vscode,jupyter,anaconda&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,sqlite,git,github,jupyter,anaconda&theme=dark&perline=7" />
+<br/>
+<img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </div>
 
@@ -87,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quoctuan21112009-maker&custom_title=Monthly%20Commit%20Activity&bg_color=0d1117&color=38bdf8&line=00d9ff&point=ffffff&area=true&area_color=0284c7&hide_border=true&grid_color=1e293b" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quoctuan21112009-maker&bg_color=0d1117&color=38bdf8&line=00d9ff&point=ffffff&area=true&area_color=0284c7&hide_border=true&grid_color=1e293b" width="100%"/>
 
 </div>
 
@@ -95,7 +98,25 @@
 <sub>Biểu đồ hoạt động commit theo từng tháng trong năm — cập nhật tự động theo lịch sử đóng góp trên GitHub.</sub>
 </div>
 
+---
 
+## AI & Dev Vibes
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/xUOxf48UBRhhFT5doA/giphy.gif" width="220"/>
+
+</div>
+
+---
 
 <div align="center">
 
