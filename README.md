@@ -108,11 +108,8 @@
 <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="220"/>
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
 
-<br/><br/>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
-<img src="https://media.giphy.com/media/xUOxf48UBRhhFT5doA/giphy.gif" width="220"/>
+
 
 </div>
 
