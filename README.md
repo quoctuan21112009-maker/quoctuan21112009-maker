@@ -16,10 +16,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 &nbsp;Nghiên cứu **Linux & Network Security**
-- 🤖 &nbsp;Đam mê **AI / Machine Learning** và Computer Vision
-- 🌱 &nbsp;Đang học thêm về **Penetration Testing** & Ethical Hacking
-- ⚡ &nbsp;Sở thích: khám phá công nghệ mới mỗi ngày
+- 🎯 &nbsp;Mục tiêu: trở thành **AI Engineer** 🚀
+- 🤖 &nbsp;Tập trung vào **Machine Learning / Deep Learning** và Computer Vision
+- 🐍 &nbsp;Ngôn ngữ chính: **Python**
+- 🔐 &nbsp;Nền tảng thêm về **Linux & Network Security**
+- 🌱 &nbsp;Đang học sâu hơn về **PyTorch, TensorFlow, MLOps**
 - 📫 &nbsp;Liên hệ: **quoctuan21112009@gmail.com**
 - 📱 &nbsp;Điện thoại: **0974448467**
 
@@ -43,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,pytorch,opencv,fastapi,sqlite,docker,nginx,git,linux,kali,vscode,github&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,html,css,js,fastapi,sqlite,git,linux,kali,vscode,github&theme=dark&perline=8" />
 
 </div>
 
@@ -61,11 +62,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 🌐 Web & Backend
+### 🌐 Web & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -109,12 +108,16 @@
 
 <div align="center">
 
-| 🔐 Cybersecurity | 🤖 AI / ML | 🐧 Linux |
+| 🤖 AI / ML | 👁️ Computer Vision | 🔐 Security & Linux |
 |:---:|:---:|:---:|
-| Network Security | Computer Vision | System Administration |
-| Ethical Hacking | Deep Learning | Shell Scripting |
-| Penetration Testing | MediaPipe / OpenCV | Kali Linux |
+| Deep Learning | OpenCV / MediaPipe | Network Security |
+| PyTorch / TensorFlow | Image Processing | Kali Linux |
+| Model Training & Tuning | Real-time Detection | Shell Scripting |
 
+</div>
+
+<div align="center">
+<sub>💡 Hướng đi dài hạn: trở thành <b>AI Engineer</b> chuyên sâu về Machine Learning & Computer Vision</sub>
 </div>
 
 ---
