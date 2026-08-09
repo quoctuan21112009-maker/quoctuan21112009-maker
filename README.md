@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there,%20I'm%20Tuấn%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20|%20AI%2FML%20|%20Cybersecurity&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there,%20I'm%20Tuấn&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;AI+%2F+ML+Engineer+%F0%9F%A4%96;Linux+%26+Cybersecurity+%F0%9F%94%90;Network+Security+Enthusiast+%F0%9F%8C%90;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+%2F+Deep+Learning;Computer+Vision+%2F+OpenCV+%2F+MediaPipe;Python+Developer+%F0%9F%90%8D;Always+training+new+models...)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -12,29 +12,37 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding"/>
+<table align="center">
+<tr>
+<td width="60%">
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎯 &nbsp;Mục tiêu: trở thành **AI Engineer** 🚀
-- 🤖 &nbsp;Tập trung vào **Machine Learning / Deep Learning** và Computer Vision
-- 🐍 &nbsp;Ngôn ngữ chính: **Python**
-- 🔐 &nbsp;Nền tảng thêm về **Linux & Network Security**
-- 🌱 &nbsp;Đang học sâu hơn về **PyTorch, TensorFlow, MLOps**
-- 📫 &nbsp;Liên hệ: **quoctuan21112009@gmail.com**
-- 📱 &nbsp;Điện thoại: **0974448467**
+- 🎯 Mục tiêu dài hạn: trở thành **AI Engineer** chuyên sâu
+- 🧠 Tập trung vào **Machine Learning / Deep Learning**
+- 👁️ Thích khám phá **Computer Vision** và các bài toán thị giác máy tính
+- 🐍 Ngôn ngữ chính: **Python**
+- 🌱 Đang học sâu hơn về **PyTorch, TensorFlow, MLOps**
+- 📫 Email: **quoctuan21112009@gmail.com**
+- 📱 Điện thoại: **0974448467**
 
-<br clear="right"/>
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/JaidepSingh/JaidepSingh/main/assets/Coding.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-quoctuan21112009--maker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quoctuan21112009-maker)
-[![Gmail](https://img.shields.io/badge/Gmail-quoctuan21112009-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quoctuan21112009@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-0974448467-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0974448467)
+<a href="https://github.com/quoctuan21112009-maker"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
+<a href="mailto:quoctuan21112009@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+📱 **0974448467** &nbsp;|&nbsp; ✉️ **quoctuan21112009@gmail.com**
 
 </div>
 
@@ -44,30 +52,58 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,html,css,js,fastapi,sqlite,git,linux,kali,vscode,github&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas&theme=dark&perline=7" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,sqlite,git,github,vscode,linux,jupyter,anaconda&theme=dark&perline=7" />
 
 </div>
 
-<div align="center">
+---
 
-### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+## 🚀 Featured Projects
 
-### 🔐 Cybersecurity & Linux
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Web & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 👁️ Computer Vision Toolkit
+Ứng dụng nhận diện & xử lý ảnh thời gian thực sử dụng OpenCV và MediaPipe — theo dõi cử chỉ tay, khuôn mặt và vật thể.
 
-</div>
+`Python` `OpenCV` `MediaPipe`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 ML Model Playground
+Bộ sưu tập các mô hình Machine Learning từ cơ bản đến nâng cao, thử nghiệm với PyTorch & TensorFlow.
+
+`Python` `PyTorch` `TensorFlow`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ FastAPI ML Service
+API phục vụ mô hình AI, triển khai inference nhanh và nhẹ cho các ứng dụng thực tế.
+
+`Python` `FastAPI` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Analysis Notebooks
+Các notebook phân tích và trực quan hóa dữ liệu bằng Pandas, NumPy và Matplotlib.
+
+`Python` `Jupyter` `Pandas`
+
+</td>
+</tr>
+</table>
+
+> 💡 *Cập nhật thêm project mới bằng cách thay các mục trên bằng repo thật của bạn (thêm link, ảnh demo, badge ngôn ngữ...)*
 
 ---
 
@@ -104,27 +140,29 @@
 
 ---
 
-## 🎯 Currently Focusing On
+## ✨ AI & Dev Vibes
 
 <div align="center">
 
-| 🤖 AI / ML | 👁️ Computer Vision | 🔐 Security & Linux |
-|:---:|:---:|:---:|
-| Deep Learning | OpenCV / MediaPipe | Network Security |
-| PyTorch / TensorFlow | Image Processing | Kali Linux |
-| Model Training & Tuning | Real-time Detection | Shell Scripting |
+<img src="https://raw.githubusercontent.com/aditya6763/gif-storage/master/analytics.gif" width="220"/>
+<img src="https://raw.githubusercontent.com/aditya6763/gif-storage/master/system-design.gif" width="220"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
 
 </div>
 
-<div align="center">
-<sub>💡 Hướng đi dài hạn: trở thành <b>AI Engineer</b> chuyên sâu về Machine Learning & Computer Vision</sub>
-</div>
+> 🎞️ *Một số GIF minh họa lấy từ kho GIF cộng đồng — nếu ảnh không hiển thị, hãy thay bằng link GIF khác từ [giphy.com](https://giphy.com) hoặc [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub).*
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> &nbsp; <em><b>I love connecting with people</b> — feel free to say hi!</em>
+<em><b>I love connecting with people</b> — feel free to say hi!</em>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=quoctuan21112009-maker&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
