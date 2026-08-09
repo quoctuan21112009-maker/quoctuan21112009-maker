@@ -95,12 +95,12 @@
 </div>
 
 <div align="center">
-<sub>Biểu đồ hoạt động commit theo từng tháng trong năm — cập nhật tự động theo lịch sử đóng góp trên GitHub.</sub>
+<sub>Commit Github of month .</sub>
 </div>
 
 ---
 
-## AI & Dev Vibes
+## AI 
 
 <div align="center">
 
