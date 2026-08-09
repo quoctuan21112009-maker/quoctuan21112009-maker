@@ -14,25 +14,6 @@
 <table align="center">
 <tr>
 <td width="60%" valign="top">
-
-### About Me
-
-- Mục tiêu dài hạn: trở thành **AI Engineer** chuyên sâu
-- Tập trung vào **Machine Learning / Deep Learning**
-- Thích khám phá **Computer Vision** và các bài toán thị giác máy tính
-- Ngôn ngữ chính: **Python**
-- Email: **quoctuan21112009@gmail.com**
-- Điện thoại: **0974448467**
-
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/JaidepSingh/JaidepSingh/main/assets/Coding.gif" width="100%"/>
-</td>
-</tr>
-</table>
-
----
-
 ## Connect
 
 <div align="center">
